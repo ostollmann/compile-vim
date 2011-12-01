@@ -1,0 +1,4 @@
+./configure --enable-perlinterp --enable-pythoninterp --enable-rubyinterp --enable-cscope  --with-features=huge --prefix=/home/ost --with-modified-by="Oliver Stollmann"
+make
+
+# new vim binary is now in src/
